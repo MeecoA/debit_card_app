@@ -1,0 +1,98 @@
+{
+  "accounts": [
+    {
+      "card_no": 101632,
+      "account_name": "Alexis Cantoria",
+      "status": "active",
+      "balance": 12451.32,
+      "transac_history": [
+        {
+          "transaction - add credit": 800.0
+        },
+        {
+          "transaction - debit ": "gumawa ng jelly",
+          "amount deducted": 200.0
+        },
+        {
+          "transaction - debit ": "gumawa ng bahay",
+          "amount deducted": 900.0
+        },
+        {
+          "transaction - add credit ": 1000.0
+        },
+        {
+          "transaction - add credit ": 600.0
+        },
+        {
+          "transaction - add credit ": 7000.0
+        },
+        {
+          "transaction - debit ": "asdasda",
+          "amount deducted": 100.0
+        },
+        {
+          "transaction - add credit ": 1000.0
+        },
+        {
+          "transaction - add credit ": 1.0
+        },
+        {
+          "transaction - add credit ": 1000.0
+        },
+        {
+          "transaction - add credit ": 1000.0
+        },
+        {
+          "transaction - add credit ": 1000.0
+        },
+        {
+          "transaction - debit ": "gumawa ng bahay",
+          "amount deducted": 100.6
+        }
+      ]
+    },
+    {
+      "card_no": 121212,
+      "account_name": "John Doe",
+      "status": "activated",
+      "balance": 0.0,
+      "transac_history": [
+        {}
+      ]
+    },
+    {
+      "card_no": 123123,
+      "account_name": "Juan Pedro",
+      "status": "activated",
+      "balance": 0.0,
+      "transac_history": [
+        {}
+      ]
+    },
+    {
+      "card_no": 121213,
+      "account_name": "Alexandra Arcilla",
+      "status": "active",
+      "balance": 10.0,
+      "transac_history": [
+        {},
+        {
+          "transaction - add credit ": 20.0
+        },
+        {
+          "transaction - debit ": "candy",
+          "amount deducted": 10.0
+        }
+      ]
+    },
+    {
+      "card_no": 102103,
+      "account_name": "Meeco Cousin",
+      "status": "activated",
+      "balance": 0.0,
+      "transac_history": [
+        {}
+      ]
+    }
+  ]
+}
