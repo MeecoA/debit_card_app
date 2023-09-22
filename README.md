@@ -1,6 +1,6 @@
 # Microservices with python
 ## created api's using fast api
-You can may use a virtual environment or not.
+You can use a virtual environment or not.
 how to run: 
 pip install fastapi
 pip install uvicorn
